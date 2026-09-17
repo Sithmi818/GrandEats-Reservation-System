@@ -1,7 +1,7 @@
 # 🍽️ GrandEats
 ## Restaurant Table Reservation Platform
 
-A Full-Stack Web Application developed as part of a 1st-Year IP Module at SLIIT to digitize table bookings, pre-orders, and management workflows.
+A Full-Stack Web Application developed as part of a 1st-Year OOP Module at SLIIT to digitize table bookings, pre-orders, and management workflows.
 
 ![Project Screenshot](Images/dashboard.jpg)
 ---
